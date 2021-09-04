@@ -36,7 +36,7 @@ function preload(){
 let xRaqueteOponente = 585;
 let yRaqueteOponente = 150;
 let velocidadeYOponente;
-let chanceDeErrar = 0;
+let chanceDeErrar = 10;
 
 let colidiu = false;
 
